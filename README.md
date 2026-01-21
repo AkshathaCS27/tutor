@@ -29,3 +29,15 @@ This project is implemented using **Python** and **Jupyter Notebook**.
 ├── tutor.ipynb
 ├── README.md
 └── requirements.txt
+
+📈 Use Case
+Students select a subject/topic
+AI generates explanations
+Quizzes assess understanding
+Feedback helps improve learning outcomes
+
+🔮 Future Scope
+Multilingual learning support
+Web UI using Streamlit or Flask
+Performance tracking dashboard
+Academic content integration
